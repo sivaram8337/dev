@@ -1,2 +1,1 @@
-sample file data
-moving
+a=20
